@@ -1,7 +1,7 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Expense Tracker",icon="💵")
+st.set_page_config(page_title="Expense Tracker",page_icon="💵")
 st.title("Expense Tracker 🫰🏻💸")
 st.sidebar.title("Expense Tracker")
 
